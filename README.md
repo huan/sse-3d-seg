@@ -3,7 +3,7 @@
 Secondary Structure Elements 3D Segmentation for Protein
 
 ![Secondary Structure Elements](docs/images/sse.jpg)
-> Credit: [Cascaded-CNN: Deep Learning to Predict Protein Backbone Structure from High-Resolution Cryo-EM Density Maps](https://www.biorxiv.org/content/10.1101/572990v3.abstract)
+> Picture Credit: [Cascaded-CNN: Deep Learning to Predict Protein Backbone Structure from High-Resolution Cryo-EM Density Maps](https://www.biorxiv.org/content/10.1101/572990v3.abstract)
 
 ## METRICS
 
