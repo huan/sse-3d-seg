@@ -13,7 +13,7 @@ Secondary Structure Elements 3D Segmentation for Protein
 
 - [ ] Preparation
   - [ ] Run baseline code & get mAP result 
-  - [ ] Upload perfect data to gcp bucket tfrc-data/bio
+  - [X] Upload perfect data to gcp bucket tfrc-data/bio, [Data](data/README.md)
 - [ ] Synthetic Experiments
   - [ ] Run baseline code on synthetic data & get mAP result
   - [ ] Improve the mAP result on synthetic data
