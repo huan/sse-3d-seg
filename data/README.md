@@ -2,11 +2,6 @@
 
 ## ScreenShot
 
-![all](image0.png)
-
-![all](image1.png)
-
-![all](image2.png)
 
 ![all](image3.png)
 
