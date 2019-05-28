@@ -54,6 +54,10 @@ Total 1M SSE.
 
 To Be Load.
 
+## SEE ALSO
+
+- [研习U-Net - 周纵苇](https://zhuanlan.zhihu.com/p/44958351)
+
 ## AUTHORS
 
 - Kui XU \<xukui.cs@gmail.com\> \<xuk16@mails.tsinghua.edu.cn\>
