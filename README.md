@@ -57,6 +57,7 @@ To Be Load.
 ## SEE ALSO
 
 - [研习U-Net - 周纵苇](https://zhuanlan.zhihu.com/p/44958351)
+- [3D Unet biomedical segmentation model powered by tensorpack with fast io speed](https://github.com/tkuanlun350/3DUnet-Tensorflow-Brats18)
 
 ## AUTHORS
 
